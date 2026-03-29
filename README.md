@@ -165,6 +165,4 @@ A detailed analysis of how UPI collect-request fraud targets college students on
 
 All written reflections in this repository are in my own words. AI tools were used to understand concepts and structure content, but the final write-ups reflect my own understanding and experience, as permitted by the CSE0001 course guidelines.
 
----
 
-*Submitted via VITyarthi portal · VIT Bhopal University · CSE0001 – Digital Literacy*
